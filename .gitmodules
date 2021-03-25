@@ -1,0 +1,4 @@
+[submodule "src/centernet/models/networks/DCNv2"]
+	path = src/centernet/models/networks/DCNv2
+	url = https://github.com/lbin/DCNv2.git
+  branch = pytorch_1.7
